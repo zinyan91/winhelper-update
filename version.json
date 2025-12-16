@@ -1,7 +1,8 @@
 {
-  "version": "1.0.5",
-  "minSupported": "1.0.0",
-  "url": "https://update.winhelper.app/releases/WinHelper_1.0.5.zip",
-  "sha256": "PUT_SHA256_HERE",
+  "version": "1.1.9",
+  "minSupported": "1.1.8",
+  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/WinHelper_1.1.9.zip",
+  "sha256": "312e14bb5142a281145f66e087227b0c6690b2cab363742ccb63dfb7d1775e9c",
   "notes": "Bugfix + cải tiến"
 }
+
