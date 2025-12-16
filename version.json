@@ -1,0 +1,7 @@
+{
+  "version": "1.0.5",
+  "minSupported": "1.0.0",
+  "url": "https://update.winhelper.app/releases/WinHelper_1.0.5.zip",
+  "sha256": "PUT_SHA256_HERE",
+  "notes": "Bugfix + cải tiến"
+}
