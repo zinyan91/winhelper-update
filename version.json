@@ -1,10 +1,11 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "minSupported": "1.2.0",
   "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/WinHelper_1.2.1.zip",
-  "sha256": "942bba5760db8c6f91c0582fc8230cf504fbafa2f5b80bbe34f50bc0bf51fd30",
-  "notes": "Bugfix + cải tiến"
+  "sha256": "2373b1a70d3f44b78c27bb545f44abfa6f2b97c2671607d3f60d6bc0d8b49b4f",
+  "notes": "Cải tiền Auto_Update"
 }
+
 
 
 
