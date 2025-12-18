@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.2.3.zip",
-  "sha256": "03cd76db33440fd2e985a920ba6badbeb932fd53323eafe2c32a80e95e628721",
+  "version": "1.2.2",
+  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.2.2.zip",
+  "sha256": "9cd6bb08b070db29fa3dc20edfc26f5fe7e1cc61767afbd670a395a7b7ef8b5c",
   "minSupported": "1.2.0",
   "notes": "- Fix lỗi auto-update"
 }
