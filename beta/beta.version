@@ -1,7 +1,6 @@
 {
-  "channel": "beta",
-  "version": "1.2.5",
-  "url": "https://download.yourdomain.com/winhelper/beta/WinHelper_1.2.5.zip",
-  "sha256": "",
-  "notes": "Beta test – internal"
+  "version": "1.2.2",
+  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/beta/WinHelper_1.2.2.zip",
+  "sha256": "b47ef78024ce5f1950f9aaf838ed61ea69c56d827bcef10ee2265844a9956417",
+  "notes": "- Beta test updater flow"
 }
