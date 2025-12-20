@@ -1,7 +1,7 @@
 {
   "version": "1.2.4",
   "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.2.4.zip",
-  "sha256": "8abfd827e3961b182e416f3e94914156eef18ab9bb4776e7b7de50bbdcd2f830",
+  "sha256": "2e5856545b51237c8ea25537f2007491dabf99746f1e960b3ce864bfca373108",
   "minSupported": "1.2.0",
   "notes": "- fix error"
 }
