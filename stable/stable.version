@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3.0",
-  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.3.0.zip",
-  "sha256": "eed78faaba61723546408caa97b6c1c49a9fc5f6c5b69db7e727c6d86bf4bedb",
-  "minSupported": "1.2.9"
+  "version": "1.3.0.0",
+  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.0.0.zip",
+  "sha256": "c067ff2fb057016ab9335c029927403163b4b9f11297f0f45bbec328f877bd8c",
+  "minSupported": "1.2.6"
 }
