@@ -1,6 +1,7 @@
 {
-  "version": "1.3.2.0",
-  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.2.0.zip",
-  "sha256": "7f770f9c2c42f439d87fa5fccf750beb4425dc00a80ef50e2f2ecd36a4e39bc4",
-  "minSupported": "1.2.7"
+  "version": "1.3.3.0",
+  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.3.0.zip",
+  "sha256": "9a011d4f7e54e29251b7ac5fd7f3891b9be1c878f951bb48a87a796cd6722e16",
+  "minSupported": "1.2.7",
+  "notes": "Fix l\u1ED7i\nT\u1EA1o header m\u1EDBi cho app"
 }
