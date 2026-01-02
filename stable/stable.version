@@ -1,7 +1,6 @@
 {
-  "version": "1.3.4.0",
-  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.4.0.zip",
-  "sha256": "d3d1c8a8f4c3f82529379768cd347d4fd0c506b65147ab5f94027b7caa2f7fde",
-  "minSupported": "1.2.7",
-  "notes": "C\u1EADp nh\u1EADt UX/UI d\u00E0nh cho Office Tool"
+  "version": "1.3.5.0",
+  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.5.0.zip",
+  "sha256": "4831adc77551fcb69c49d42071029e6a428afedcf505351b05bc24277f8c8e34",
+  "minSupported": "1.2.6"
 }
