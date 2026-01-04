@@ -1,7 +1,7 @@
 {
-  "version": "1.3.5.0",
-  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.5.0.zip",
-  "sha256": "54e61f77b07472e9781f47c15df88db576beac8e52a316b2149515c7fca5399a",
+  "version": "1.3.6.0",
+  "url": "https://pub-96f08710583c4172888d20dd030087fa.r2.dev/stable/WinHelper_1.3.6.0.zip",
+  "sha256": "c099052a20a5be067b2cfcc13ee934a3fd78ebc1f883ab6cf5af0c97f9791567",
   "minSupported": "1.2.7",
-  "notes": "fix bug Office Tools"
+  "notes": "Fix logic ODT"
 }
